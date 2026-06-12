@@ -260,3 +260,4 @@ loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11463, RESELLER, 6c8d5f95897a5a3b
 smartclip.net, 13564, RESELLER
 videoheroes.tv, 212428, RESELLER, 064bc410192443d8
+facebook.com, 909111098499065, DIRECT, c3e20eee3f780d68
